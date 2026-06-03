@@ -1,0 +1,22 @@
+{
+  "name": "hirehub-onboarding-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HireHub Onboarding Portal built with React 18+ and Vite",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"No test framework configured yet\""
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "prop-types": "^15.8.1"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}
